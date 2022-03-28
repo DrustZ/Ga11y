@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GIF Annotation</string>
+    <string name="service_name">GIF Annotation</string>
+    <string name="accessibility_service_description">Annotation Service for GIFs.</string>
+
+    <string name="get_gif_desc_prompt">Get GIF Description</string>
+    <string name="fetch_error">Error fetching annotation. Please try again.</string>
+    <string name="last_gif">Last GIF: </string>
+    <string name="go_to_accessibility_settings">Go to Accessibility Settings</string>
+    <string name="stop_annotation_service">Stop Annotation Service</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="record_fail">Could not record GIF. Please open the Annotation System app.</string>
+</resources>
