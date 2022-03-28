@@ -1,0 +1,12 @@
+imageio
+tornado
+numpy
+boto3
+Pillow
+moviepy
+opencv-python
+scikit-image
+elasticsearch
+google-cloud-vision
+google-cloud-translate==2.0.1
+azure-cognitiveservices-vision-computervision
